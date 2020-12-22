@@ -22,13 +22,3 @@ Paquete para facturacion electronica Colombia
 * Consulta de estado por cufe
 * Consulta de rangos de numeración
 * Envió de set de pruebas asíncrono
-
-
-# Resources
-* [Documentation](https://soenac.com/ubl21-dian)
-* [Instalacion](https://docs.google.com/document/d/1WtGOfzf6hzfuC3tKC5uNlcibunUBFu8HgveXoj3_3_s/edit?usp=sharing)
-* [Uso Ejemnplos](https://docs.google.com/document/d/1xjBsWx54Jt-2mj3v9YHyBocqRggsz5H7UNV2iECbaHU/edit?usp=sharing)
-
-# Actualizacion 
-
-
